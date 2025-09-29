@@ -3,12 +3,12 @@ This is an interactive Python calculator program. You can launch the program by 
 
 The program expects an arithmetic operation and two numbers to perform the operation on. It will return an error if you try to divide by zero. Here's what the syntax looks like:
 
-- add 4 5 
-- subtract 8 4 
-- multiply 4 5 
-- divide 10 2 
-- power 2 3
-- modulus 10 3 
+- `add 4 5` 
+- `subtract 8 4` 
+- `multiply 4 5` 
+- `divide 10 2` 
+- `power 2 3`
+- `modulus 10 3` 
 
 Below is the set up for modifying the program on your own system.
 
